@@ -1,0 +1,6 @@
+[user]
+	email = vijayalakshmisodasani6789@gmail.com
+	name = vijayalakshmisodasani
+[core]
+	editor = code --wait\n
+	autocrlf = input
